@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sara Moshtari"
 title_separator          : "-"
 name                     : &name "Sara Moshtari"
-description              : &description "Doctoral Candidate"
+description              : &description "Assistant Professor"
 url                      : "https://saramsh.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saramsh.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Doctoral Candidate"
+  name             : "Assistant Professor"
   avatar           : "image_2.jpg"
-  bio              : "Computing and Information Sciences"
-  employer         : "Rochester Institute of Technology"
-  location         : "Rochester, NY"
+  bio              : "Computer Systems Technology"
+  employer         : "City University of New York"
+  location         : "New York, NY"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=x0NDDD8AAAAJ&hl=en&oi=sra"
   email            :  "sm2481@rit.edu"
