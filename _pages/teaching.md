@@ -17,6 +17,7 @@ author_profile: true
 </style>
 ## Assistant Professor 
 City University of New York, CST Depertment, New York, United States.
+
 Fall 2025:
   * CST-1101 Problem Solving with Computer Programming
   * CST-1201 Programming Fundamentals
@@ -41,8 +42,8 @@ Fall 2017:
 * Computer Workshop 1
   
 Spring 2016:
-* Data Structure,
-* Web Programming,
+* Data Structure
+* Web Programming
 * Object Oriented Programming
   
 Fall 2015:
@@ -57,8 +58,8 @@ Spring 2015:
 * Web Programming
   
 Fall 2014:
-* Introductory Programming,
-* Web Programming,
+* Introductory Programming
+* Web Programming
 * Object Oriented Programming
 * Computer Workshop 1
   
